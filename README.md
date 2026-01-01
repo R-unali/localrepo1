@@ -1,3 +1,3 @@
 # git-github
 
-This is me Local Repo
+This is my Local Repo
